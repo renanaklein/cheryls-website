@@ -1,0 +1,12 @@
+h1 {
+    background-color: blueviolet
+}
+.header {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 4em;
+    text-decoration-color: black;
+    font-weight: bold;
+    font-variant: small-caps;
+    background-image: url("header-image.jpg");
+    min-height: 175px;
+}
